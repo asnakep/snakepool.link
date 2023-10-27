@@ -53,11 +53,11 @@ export default function Home() {
              </p>
 
              <p>
-             Pool Fixed Cost per Epoch: 340 ADA
+             Pool Fixed Cost per Epoch: 170 ADA
              </p>
 
              <p>
-             Pledge: 28K ADA
+             Pledge: 30K ADA
              </p>
 
              <p>
