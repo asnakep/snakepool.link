@@ -13,7 +13,7 @@ export default function Home() {
         <meta name="description" content="SN₳KE Stake Pool Portal" />
         <link
           rel="icon"
-          href="https://fleek.ipfs.io/ipfs/QmZ6Jo618srfo6fCfD5FvdKxpPskAor9A8pbkBA22SpLQP"
+          href="https://fleek.ipfs.io/ipfs/QmcR8sojtYdKTQ2nS2FqYb6ovRxvrQtHsLNGxwmmnNFaPD"
         />
       </Head>
 
