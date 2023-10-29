@@ -76,7 +76,7 @@ export default function Home() {
              </p>
 
              <p>
-             <a href="https://twitter.com/adasnakepool" target="_blank" rel="noreferrer">SN₳KE Pool On Twitter</a>
+             <a href="https://twitter.com/adasnakepool" target="_blank" rel="noreferrer">SN₳KE Pool On X</a>
              </p>
 
         </div>
