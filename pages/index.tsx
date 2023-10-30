@@ -13,7 +13,7 @@ export default function Home() {
         <meta name="description" content="SN₳KE Stake Pool Portal" />
         <link
           rel="icon"
-          href="/snakepool.ico"
+          href="https://raw.githubusercontent.com/asnakep/SnakePoolSite/main/public/snakepool.ico"
         />
       </Head>
 
