@@ -92,7 +92,7 @@ export default function Home() {
              </p>
 
              <p>
-             <a href="https://cexplorer.io/pool/pool1xs34q2z06a46nk7hl48d27dj5gzc6hh9trugw2ehs9ajsevqffx" target="_blank" rel="noreferrer">cexplorer.io</a>
+             <a href="https://adastat.net/pools/342350284fd76ba9dbd7fd4ed579b2a2058d5ee558f8872b37817b28" target="_blank" rel="noreferrer">adastat.net</a>
              </p>
 
         </div>
