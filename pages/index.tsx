@@ -45,7 +45,7 @@ export default function Home() {
 
         <div className="card">
              <p>
-             Cardano StakePool Running 24/7/365 on NixOS Servers.
+             🐍 SN₳KE is your 24/7/365 Single and Reliable Stake Pool ✅
              </p>
 
              <p>
