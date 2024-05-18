@@ -88,11 +88,11 @@ export default function Home() {
              </p>
 
              <p>
-             <a href="https://pooltool.io/pool/342350284fd76ba9dbd7fd4ed579b2a2058d5ee558f8872b37817b28" target="_blank" rel="noreferrer">pooltool.io</a>
+             <a href="https://adastat.net/pools/342350284fd76ba9dbd7fd4ed579b2a2058d5ee558f8872b37817b28" target="_blank" rel="noreferrer">adastat.net</a>
              </p>
 
              <p>
-             <a href="https://adastat.net/pools/342350284fd76ba9dbd7fd4ed579b2a2058d5ee558f8872b37817b28" target="_blank" rel="noreferrer">adastat.net</a>
+             <a href="https://pooltool.io/pool/342350284fd76ba9dbd7fd4ed579b2a2058d5ee558f8872b37817b28" target="_blank" rel="noreferrer">pooltool.io</a>
              </p>
 
         </div>
