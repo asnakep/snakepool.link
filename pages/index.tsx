@@ -45,7 +45,7 @@ export default function Home() {
 
         <div className="card">
              <p>
-             🐍 SN₳KE is your 24/7/365 Single and Reliable Stake Pool ✅
+             🐍 SN₳KE is your 24/7/365 Single and Reliable Cardano Stake Pool ✅
              </p>
 
              <p>
